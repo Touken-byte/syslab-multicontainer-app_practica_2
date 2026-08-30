@@ -101,6 +101,6 @@ Este proyecto sigue **Conventional Commits** en español:
 
 ## 👤 Autor
 
-- **Estudiante**: Touken-byte
+- **Estudiante**: Lizzy Leyla Baron Barrero
 - **Materia**: Sistemas Paralelos
 - **Docente**: Ing. Elias Cassal Baldiviezo
